@@ -1,0 +1,9 @@
+@import url(global/global.css);
+@import url(parts/header.css);
+@import url(parts/mosaico.css);
+@import url(parts/perfil-section.css);
+@import url(parts/videos.css);
+@import url(parts/sessao-tratamentos.css);
+@import url(parts/depoimento.css);
+@import url(parts/social-info.css);
+@import url(parts/contato.css);
